@@ -1,5 +1,5 @@
 # Portfolio_WordFinder
-word finder app for scrabble
+word finder app for scrabble (built using Node)
 
 . Run the file 'englishdictionary.sql' file to obstain the necessary tables. 
 
